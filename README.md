@@ -27,4 +27,4 @@ The goal was to transform messy, inconsistent records into a clean dataset ready
 Clone the repository and explore the cleaned dataset for further analysis, visualization, or predictive modeling.
 
 ```bash
-git clone [Insert Repo Link Here]
+(https://github.com/riya1234000/POWER-QUERY/blob/main/1%20-%20Medical%20History%20Raw%20Data.xlsx)
